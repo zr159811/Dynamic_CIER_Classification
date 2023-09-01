@@ -1,4 +1,4 @@
-## Data, models, and functions for the empirical example validation (Roman, Schmidt, Miller, and Brandt, In development)
+## Data, models, and functions for the empirical example validation (Roman, Schmidt, Miller, and Brandt, In review)
 
 Install:
 
