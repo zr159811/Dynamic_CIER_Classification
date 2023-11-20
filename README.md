@@ -2,8 +2,8 @@
 
 Install:
 
-`# install.packages("remotes")
- # remotes::install_github("zr159811/Dynamic_CIER_Classification")`
+install.packages("remotes")
+remotes::install_github("zr159811/Dynamic_CIER_Classification")
 
 For demographic data
 
